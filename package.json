@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "glslify": "^7.1.1",
+    "react-color": "^2.19.3",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.156.1"
+  }
+}
